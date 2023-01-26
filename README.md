@@ -1,4 +1,6 @@
 Basics laravel project with CRUD operations
 
-https://user-images.githubusercontent.com/77729220/214826656-0088f283-e27d-45d5-aa93-025161180961.mp4
+
+
+https://user-images.githubusercontent.com/77729220/214826920-6fb85b7f-2b06-49b9-85b3-cd1000036fce.mp4
 
